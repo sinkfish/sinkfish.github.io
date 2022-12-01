@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5304781.css",
+    "main.js": "/static/js/main.88113b4c.js",
+    "index.html": "/index.html",
+    "static/media/roa-logo.svg": "/static/media/roa-logo.c555d4dab977c7f9300b7d092c77b423.svg",
+    "static/media/big-r.svg": "/static/media/big-r.7af0db903c97d1fb02195b18f79b0cac.svg",
+    "main.e5304781.css.map": "/static/css/main.e5304781.css.map",
+    "main.88113b4c.js.map": "/static/js/main.88113b4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5304781.css",
+    "static/js/main.88113b4c.js"
+  ]
+}
